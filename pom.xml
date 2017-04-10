@@ -3,14 +3,14 @@
 	<groupId>com.demo.app</groupId>
 	<artifactId>senton</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>senton Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<scm>
 		<connection>scm:git:git@github.com:ramjaya/senton.git</connection>
 		<url>scm:git:git@github.com:ramjaya/senton.git</url>
 		<developerConnection>scm:git:git@github.com:ramjaya/senton.git</developerConnection>
-		<tag>senton-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
